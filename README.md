@@ -2,7 +2,7 @@
 
 Seams for mobile apps: Expo builds and React Native runtime.
 
-The code arrives by migration from the private monorepo `ai-swfactory/seams`; until then each package is a guarded skeleton.
+This repository holds only the guarded skeleton so far: `createSeamsExpo()` returns a seam whose `plan()` holds no builds, and `createSeamsReactNative()` one whose `describe()` lists no runtime seams; each package's `./testing` holds a fake of it.
 
 ## Packages
 
