@@ -41,9 +41,6 @@
   "references": [
     {
       "path": "./packages/seams-expo"
-    },
-    {
-      "path": "./packages/seams-react-native"
     }
   ],
   "include": [

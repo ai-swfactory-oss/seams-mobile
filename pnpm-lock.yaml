@@ -18,12 +18,6 @@ importers:
         specifier: ^24.0.0
         version: 24.19.2
 
-  packages/seams-react-native:
-    devDependencies:
-      '@types/node':
-        specifier: ^24.0.0
-        version: 24.19.2
-
 packages:
 
   '@types/node@24.19.2':

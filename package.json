@@ -1,10 +1,9 @@
 {
   "name": "seams-mobile-monorepo",
   "private": true,
-  "version": "0.0.0",
   "type": "module",
   "license": "MIT",
-  "description": "seams-mobile workspace: Seams for mobile apps, Expo builds and React Native runtime.",
+  "description": "seams-mobile workspace: Seams for mobile apps: Expo builds.",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ai-swfactory-oss/seams-mobile.git"

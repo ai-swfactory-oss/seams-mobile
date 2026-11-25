@@ -1,0 +1,4 @@
+ExpoBuild: interface ExpoBuild { readonly profile: string; }
+ExpoBuildPlan: interface ExpoBuildPlan { readonly builds: readonly ExpoBuild[]; }
+SeamsExpo: interface SeamsExpo { readonly plan: () => ExpoBuildPlan; }
+createSeamsExpo: const createSeamsExpo: () => SeamsExpo
